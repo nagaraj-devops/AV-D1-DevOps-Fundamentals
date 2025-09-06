@@ -2,8 +2,11 @@
 - I have been involved in Cloud Services and Server activity and Deployment of applications more than 6 years.
 - Providing Server and Repos to development team.
 - As Software Development Manager
-- My responsibilities are to manage tasks and reviews of development activities.
+- My responsibilities are to manage tasks and reviews of development activities across team and multiple projects.
 - I take care of infrastructure provisioning
 - Defining the efficient way of development tasks.
 - Providing repos and accesses.
-- 
+- As a developer, i have worked with different tech stack (Both as a frontend and backend developer)
+- Python, PHP, HTML, CSS, Angular, React, VueJs, MySql, Postresql, MongoDB.
+- Variour Frameworks and CMS like (wordpress, drupal, joomla, bootstrap, django, codeigniter etc)
+- I also worked as a QA Engineer during my intial career for couple of years.
