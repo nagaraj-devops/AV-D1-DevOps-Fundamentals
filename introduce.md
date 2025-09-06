@@ -1,0 +1,9 @@
+- I am working as a software developer from more than 10 years in various web application stack.
+- I have been involved in Cloud Services and Server activity and Deployment of applications more than 6 years.
+- Providing Server and Repos to development team.
+- As Software Development Manager
+- My responsibilities are to manage tasks and reviews of development activities.
+- I take care of infrastructure provisioning
+- Defining the efficient way of development tasks.
+- Providing repos and accesses.
+- 
